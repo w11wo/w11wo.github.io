@@ -8,7 +8,7 @@ tags:
 
 After learning how to implement Singly Linked List, we're going to implement Doubly Linked List, which is similar to Singly Linked List, but with the addition of a `prev` `pointer` which points to the node before it.
 
-We'll implement a Doubly Linked List using the C language. The complete code for this post can be found [here](https://github.com/w11wo/blog/blob/master/_posts/code/doublyLinkedList.c).
+We'll implement a Doubly Linked List using the C language. The complete code for this post can be found [here](https://github.com/w11wo/w11wo.github.io/blob/master/files/code/doublyLinkedList.c).
 
 The following code is **based** on a lecture by Rhio Sutoyo, S.Kom., M.Sc. in **Data Structures** course.
 

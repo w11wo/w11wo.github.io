@@ -14,7 +14,7 @@ However, there may be possible collisions when inserting a new data whose key ha
 We'll implement a Hash Table using the C language.
 For each key in the hash table, we'll implement it using a `node` of a Singly Linked List to cater for separate chaining.
 
-The complete code for this post can be found [here](https://github.com/w11wo/blog/blob/master/_posts/code/hashTable.c).
+The complete code for this post can be found [here](https://github.com/w11wo/w11wo.github.io/blob/master/files/code/hashTable.c).
 
 ## Header Files
 
