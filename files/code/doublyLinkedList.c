@@ -1,67 +1,37 @@
----
-title: Doubly Linked List in C
-date: 2020-03-05
-permalink: /posts/2020/03/doubly-linked-list-c/
-tags:
-  - Data Structures
----
-
-After learning how to implement Singly Linked List, we're going to implement Doubly Linked List, which is similar to Singly Linked List, but with the addition of a `prev` `pointer` which points to the node before it.
-
-We'll implement a Doubly Linked List using the C language. The complete code for this post can be found [here](https://github.com/w11wo/blog/blob/master/_posts/code/doublyLinkedList.c).
-
-The following code is **based** on a lecture by Rhio Sutoyo, S.Kom., M.Sc. in **Data Structures** course.
-
-## Header Files
-
-The only header files we'll be using are the following
-
-```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-```
 
-## Node Struct
-
-A `node` is just a single element inside the list, which in this case represents a student's information with their `name` and `gpa`. Also, it has a `pointer` to the next and previous `node`.
-
-```c
 typedef struct node {
     char name[200];
     double gpa;
     struct node* next;
     struct node* prev;
 } node;
-```
 
-Notice that we also use `typedef` which allows us to omit the `struct` keyword in the instantiation of a `node`.
+node *head, *tail;
 
-## Function Prototypes
-
-Since we are writing in C, we need to first prototype every function we're going to implement below our `main` function. Here is the list of functions we'll be implementing
-
-```c
 node* create_node(const char* name, double gpa);
 void sorted_push(const char* name, double gpa);
 void delete_node(const char* key);
 void print_list(void);
 void print_reversed_list(void);
-```
 
-## Global Head and Tail
+int main(void) {
 
-For this example, we will create a global variable called `head` and `tail`, which denotes the first element and the last element in the list respectively.
+    sorted_push("Steven", 3.5); // [Steven]
+    sorted_push("Bill", 2.0); // [Bill, Steven]
+    sorted_push("John", 3.7); // [Bill, Steven, John]
+    sorted_push("Ace", 2.5); // [Bill, Ace, Steven, John]
 
-```c
-node *head, *tail;
-```
+    delete_node("Ace"); // [Bill, Steven, John]
+    delete_node("B");
+    print_list();
 
-## Creating a Node
+    return 0;
 
-To create our student `node`, we will implement the following function.
+}
 
-```c
 node* create_node(const char* name, double gpa) {
     // allocate memory of size 'node';
     node* student = (node*) malloc(sizeof(node));
@@ -71,13 +41,7 @@ node* create_node(const char* name, double gpa) {
 
     return student;
 }
-```
 
-## Sorted Push
-
-Instead of implementing push front, back, or middle, we're going to create a function which will automatically insert a node in ascending order of `gpa`.
-
-```c
 void sorted_push(const char* name, double gpa) {
     // create a new node;
     node* student = create_node(name, gpa);
@@ -121,13 +85,7 @@ void sorted_push(const char* name, double gpa) {
         }
     }
 }
-```
 
-## Delete a Node Based on Name
-
-We can delete a particular `node` based on its `name`.
-
-```c
 void delete_node(const char* key) {
     if (head == NULL) { // if list is empty;
         printf("List is empty.\n");
@@ -167,13 +125,7 @@ void delete_node(const char* key) {
         }
     }
 }
-```
 
-## Print Linked List
-
-For convenience, create a function to `print` the entire list.
-
-```c
 void print_list(void) {
     if (head == NULL) { // if list is empty;
         printf("List is empty.\n");
@@ -186,13 +138,7 @@ void print_list(void) {
         }
     }
 }
-```
 
-## Print Linked List in Reverse Order
-
-Since we have the `prev` `pointer`, we can easily `print` the list in reverse order.
-
-```c
 void print_reversed_list(void) {
     if (head == NULL) { // if list is empty;
         printf("List is empty.\n");
@@ -205,29 +151,3 @@ void print_reversed_list(void) {
         }
     }
 }
-```
-
-## Main Function
-
-Lastly, we'll demonstrate how the `main` function looks like.
-
-```c
-int main(void) {
-
-    sorted_push("Steven", 3.5); // [Steven]
-    sorted_push("Bill", 2.0); // [Bill, Steven]
-    sorted_push("John", 3.7); // [Bill, Steven, John]
-    sorted_push("Ace", 2.5); // [Bill, Ace, Steven, John]
-
-    delete_node("Ace"); // [Bill, Steven, John]
-
-    print_list();
-
-    return 0;
-
-}
-```
-
-## Conclusion
-
-With doubly linked list, we can easily move forward and backward from a node, which will highly ease the process of adding a node, printing in reverse order, and others which singly linked list would have a difficulty of doing.
