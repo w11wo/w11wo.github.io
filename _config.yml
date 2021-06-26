@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Wilson Wongso"
+title: "Wilson's Homepage"
 title_separator: "-"
 name: &name "Wilson Wongso"
 description: &description "Computer Science Student."
@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name: "Wilson Wongso"
-  avatar: "profile.png"
+  avatar: "profile.jpg"
   bio: "Computer Science Student. Deep Learning Enthusiast. Vision/NLP."
   location: "Jakarta, Indonesia"
   employer:
-  pubmed: ""
-  googlescholar: ""
+  pubmed:
+  googlescholar:
   email: "wilsonwong961@gmail.com"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -94,14 +94,14 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "https://github.com/w11wo"
+  github: "w11wo"
   google_plus:
   keybase:
-  instagram: "https://www.instagram.com/wilsonwongso_/"
+  instagram: "wilsonwongso_/"
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
-  orcid: ""
+  linkedin: "wilson-wongso"
+  orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
@@ -247,7 +247,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Jakarta # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
