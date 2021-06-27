@@ -14,7 +14,7 @@ GANs were first invented by Ian Goodfellow, one of the modern figures in the Dee
 
 <center>
 <img src="{{site.baseurl}}/images/stylized-image.png" style="zoom: 70%;"/><br>
-<i>Style Transfer Result | Tensorflow Tutorials</i>
+<figcaption><i>Style Transfer Result | Tensorflow Tutorials</i></figcaption>
 </center>
 
 ### Image Restoration
@@ -23,7 +23,7 @@ There are different elements of an image which one can attempt to restore, and t
 
 <center>
 <img src="{{site.baseurl}}/images/restored-image.png" style="zoom: 70%;"/><br>
-<i>Image Restoration Result | fast.ai</i>
+<figcaption><i>Image Restoration Result | fast.ai</i></figcaption>
 </center>
 
 Jeremy also mentioned that GANs would also be capable of not only restoring an image's resolution, but other elements such as clearing JPEG-like artifacts, different kinds of noise, or even restoring colors. And with that, I immediately hooked to finish the lecture and try out what I've learned, and thus came this project.
@@ -68,7 +68,7 @@ class crappifier(object):
 
 <center>
 <img src="{{site.baseurl}}/images/grayscaled-image.png" style="zoom: 70%;"/><br>
-<i>Grayscaled Images</i>
+<figcaption><i>Grayscaled Images</i></figcaption>
 </center>
 
 ### Pre-train Generator/Artist
@@ -157,7 +157,7 @@ The resulting generated images after a total of 5 epochs looks like the followin
 
 <center>
 <img src="{{site.baseurl}}/images/generated-image.png" style="zoom: 70%;"/><br>
-<i>Generated Images</i>
+<figcaption><i>Generated Images</i></figcaption>
 </center>
 
 As you can see, the generator did poorly on some areas of the image, while it did great in others. Regardless, we'll save those generated images to be used as the fake images dataset for the critic to learn from.
@@ -168,7 +168,7 @@ After generating two sets of images, we'll feed the data to a critic and let it 
 
 <center>
 <img src="{{site.baseurl}}/images/critic-data.png" style="zoom: 70%;"/><br>
-<i>Real and Generated Images</i>
+<figcaption><i>Real and Generated Images</i></figcaption>
 </center>
 
 To create the critic, we'll be using fast.ai's built-in `gan_critic`, which is just a simple Convolutional Neural Network with residual blocks. Unlike the generator, the loss function we'll use is Binary Cross Entropy, since we only have two possible predictions, and also wrap it with `AdaptiveLoss`.
@@ -608,7 +608,7 @@ The resulting training images looks like the following
 
 <center>
 <img src="{{site.baseurl}}/images/gan-produced-image.png" style="zoom: 70%;"/><br>
-<i>GAN Produced Images</i>
+<figcaption><i>GAN Produced Images</i></figcaption>
 </center>
 
 And as you can see, our model was able to recolor the images to a certain extent of accuracy. This is not bad, but GANs do have their weaknesses which we'll discuss in the last section. Before we wrap up the GAN section, let's try to feed the model external images, that is images that it hasn't seen before.
@@ -619,7 +619,7 @@ The following pet images were taken randomly from the internet. I've manually gr
 
 <center>
 <img src="{{site.baseurl}}/images/gan-test-1.jpg" style="zoom: 70%;"/><br>
-<i>GAN Produced Images</i>
+<figcaption><i>GAN Produced Images</i></figcaption>
 </center>
 
 The colors produced, especially the animal's fur is less saturated than it's original image. However the natural background like grass and the sky is still acceptable, although different from the original.
@@ -628,7 +628,7 @@ Lastly, I tried to feed an image which is not a cat nor a dog. I tried to feed i
 
 <center>
 <img src="{{site.baseurl}}/images/gan-test-2.jpg" style="zoom: 70%;"/><br>
-<i>GAN Produced Images</i>
+<figcaption><i>GAN Produced Images</i></figcaption>
 </center>
 
 Few things to notice here for the first prediction, the model is biased towards green and yellow colors, hence the floor color of the first output. Secondly, aside from coloring the person in front, the model also colored the person on the phone's screen.
