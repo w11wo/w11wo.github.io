@@ -60,7 +60,7 @@ dls.show_batch()
 <center>
 <img src="{{site.baseurl}}/images/2020/07/handwritten-javanese-script-classifier/output_9_0.png" style="zoom: 70%;"/>
 </center>
-    
+
 There are only 20 types of characters in the type of Aksara which we'll be classifying.
 
 ```python
@@ -90,7 +90,7 @@ learn.lr_find()
 <center>
 <img src="{{site.baseurl}}/images/2020/07/handwritten-javanese-script-classifier/output_15_2.png" style="zoom: 70%;"/>
 </center>
-    
+
 ```python
 learn.fit_one_cycle(30, 3e-4, cbs=SaveModelCallback(monitor='accuracy', fname='best_model'), wd=0.4)
 ```
@@ -336,7 +336,7 @@ learn.recorder.plot_loss()
 <center>
 <img src="{{site.baseurl}}/images/2020/07/handwritten-javanese-script-classifier/output_17_0.png" style="zoom: 70%;"/>
 </center>
-    
+
 ```python
 learn.save('stage-1')
 ```
@@ -352,7 +352,7 @@ learn.show_results()
 <center>
 <img src="{{site.baseurl}}/images/2020/07/handwritten-javanese-script-classifier/output_20_1.png" style="zoom: 70%;"/>
 </center>
-    
+
 Instead of only viewing a batch, let's analyze the results from the entire validation dataset.
 
 ```python
@@ -368,7 +368,7 @@ interp.plot_confusion_matrix(figsize=(8,8), dpi=60)
 <center>
 <img src="{{site.baseurl}}/images/2020/07/handwritten-javanese-script-classifier/output_24_0.png" style="zoom: 70%;"/>
 </center>
-    
+
 On the other hand, this type of interpretation shows several of the predicted images, what our model thinks it is, and how confident it is with that prediction.
 
 ```python
@@ -378,7 +378,7 @@ interp.plot_top_losses(9, figsize=(10,9))
 <center>
 <img src="{{site.baseurl}}/images/2020/07/handwritten-javanese-script-classifier/output_26_0.png" style="zoom: 70%;"/>
 </center>
-    
+
 ### Predicting External Images
 
 To see how our model's regularization fairs, let's attempt to feed it an external data and see what it predicted.
@@ -404,7 +404,7 @@ test0.show()
 <center>
 <img src="{{site.baseurl}}/images/2020/07/handwritten-javanese-script-classifier/output_31_1.png" style="zoom: 70%;"/>
 </center>
-    
+
 Feed it through the model and see its output.
 
 ```python
@@ -427,7 +427,7 @@ test1.show()
 <center>
 <img src="{{site.baseurl}}/images/2020/07/handwritten-javanese-script-classifier/output_35_1.png" style="zoom: 70%;"/>
 </center>
-    
+
 ```python
 learn.predict(test1)[0]
 ```
@@ -446,7 +446,7 @@ test2.show()
 <center>
 <img src="{{site.baseurl}}/images/2020/07/handwritten-javanese-script-classifier/output_38_1.png" style="zoom: 70%;"/>
 </center>
-    
+
 ```python
 learn.predict(test2)[0]
 ```
