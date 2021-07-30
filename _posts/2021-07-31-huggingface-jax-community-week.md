@@ -121,6 +121,6 @@ As for my Thai NLP project with Sakares, we ended up scavenging the last-minute 
 
 ## 🚀 Closing Thoughts
 
-Although none of us managed to secure the top-15 projects, the virtual event was nonetheless a memorable one. I learned a ton from the people I met, and ultimately had fun participating in my first-ever online community event hosted by HuggingFace. I cannot thank my friends and organizers enough for making this experience possible. And I cannot wait to join the next HuggingFace community event 🤗.
+Although none of us managed to secure the top-15 projects, the virtual event was nonetheless a memorable one. I learned a ton from the people I met, and ultimately had fun participating in my first-ever online community event hosted by HuggingFace and Google Cloud. I cannot thank my friends and organizers enough for making this experience possible. And I cannot wait to join the next HuggingFace community event 🤗.
 
-To Steven, Sakares, Birger, and the friendliest team behind HuggingFace, thank you.
+To Steven, Sakares, Birger, and the friendliest team behind HuggingFace & JAX, thank you.
