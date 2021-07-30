@@ -65,7 +65,7 @@ At this point, I thought I did something wrong along the training pipeline. _"Wh
 Seeing my Indonesian model training just fine, I wanted to test its intermediate results after training it for about 6-8 hours. Pulled the model weights from the HuggingFace Hub, and voila, **jiberrish output**! The beast which I expected to have trained is no different from its Sundanese counterpart 😓.
 
 <center>
-<img src="{{site.baseurl}}/images/2021/07/hf-jax-week/bert-stare.gif" style="zoom: 70%;"/>
+<img src="{{site.baseurl}}/images/2021/07/hf-jax-week/bert-stare.gif" style="zoom: 100%;"/>
 <figcaption><i>Bert's stare, just like mine.</i></figcaption>
 </center>
 
