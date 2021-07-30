@@ -14,11 +14,23 @@ Hello! My name is **Wilson Wongso**, a sophomore Computer Science student curren
 
 Aside from programming, I am mainly an esports content writer at [Hybrid Indonesia](https://hybrid.co.id/) where I discuss competitive gaming, professional players & teams, do interviews, and occasionally mix a little machine learning in my writing. In my free time, I tutor high school students privately and host a podcast show together with my friends at [Podcast Keren](https://open.spotify.com/show/6gzT06081Q7TFJAeYUdnfK?si=F65NpD6bR6izeJh65fV2aw&dl_branch=1).
 
+## Latest Blog Post
+
+<div style="display:inline-block">
+
+<img src="/images/oscar-face.png" style="float:left;width:200px;height:200px;margin-right:10px;object-fit:cover;"/>
+
+<a href="https://w11wo.github.io/posts/2021/07/hf-jax-week/" style="font-weight:bold;">My HuggingFace JAX Community Week Experience</a>
+<br>
+On June 23, the HuggingFace team announced that they are planning to host a <a href="https://discuss.huggingface.co/t/open-to-the-community-community-week-using-jax-flax-for-nlp-cv/7104">community week</a> together with the people from the Google Cloud team.
+
+</div>
+
 ## Recent Projects
 
 <div style="display:inline-block">
 
-<img src="/images/huggingface-logo.png" style="float:left;width:200px;height:200px;margin-right:10px;object-fit:cover;"/>
+<img src="/images/huggingface-logo-ina.png" style="float:left;width:200px;height:200px;margin-right:10px;object-fit:cover;"/>
 
 <a href="https://huggingface.co/w11wo" style="font-weight:bold;">Indonesian Transformer Language Models</a>
 <br>
