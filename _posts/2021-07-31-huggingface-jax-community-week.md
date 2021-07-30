@@ -38,11 +38,11 @@ And so we took the step back and trained on OSCAR instead. Being 93% smaller in 
 
 ## 🚶‍♂️ Roaming to Thai NLP
 
-It was at this point that I left my computer to get a haircut (true story). While the model kept training and my hair was being cut, I paused and thought: _"why not participate in another project?"_ since others were participating in >1 projects at the same time.
+It was at this point that I left my computer to get a haircut (true story). While the model kept training and my hair was being cut, I paused and thought: _"why not participate in another project?"_ since others were participating in >1 project at the same time.
 
 Returning to my computer after the haircut (and shower) ended, I browsed through existing project proposals and found a less crowded one: **Thai RoBERTa project**. Cool! Why not join another project that similarly works on a low-resource language? Perhaps I can learn a thing or two from it...
 
-And so I contacted the participant who's responsible for the project: [Sakares Saengkew](https://github.com/sakares). We talked, exchanged ideas, and ultimately agreed to work on this project together. What I didn't expect was becoming really good friends with someone whom I have never met in-person, let alone be based in Thailand 😆.
+And so I contacted the participant who's responsible for the project: [Sakares Saengkew](https://github.com/sakares). We talked, exchanged ideas, and ultimately agreed to work on this project together. What I didn't expect was becoming really good friends with someone whom I have never met in person, let alone be based in Thailand 😆.
 
 The more we talked, the more our friendship bonded. Along the lines of conversation, we found out that we both enjoyed watching **Dota 2**, so that became the topic of our conversation for a good while 😂. Games aside, Sakares' original plan kept going, though with some hurdles along the way.
 
@@ -54,15 +54,15 @@ Both the training and evaluation loss seems to be decreasing well, with the accu
 
 With some more hours to kill, I decided to train another language model still using HuggingFace's JAX framework, but this time on a personal Google Colab notebook. It was trained on the very low-resource language of Sundanese and the training and evaluation loss decreased just fine. It also achieved a decent accuracy, but something odd came to my realization...
 
-Despite the accuracy reports, the language model was spitting out jibberish, unreflective of the results. _"Maybe something is wrong?"_, I thought. Indeed, I had a trouble converting the JAX model to PyTorch, due to the usage of FP16. _"Aha!"_, that's where I thought the problem lies.
+Despite the accuracy reports, the language model was spitting out jibberish, unreflective of the results. _"Maybe something is wrong?"_, I thought. Indeed, I had trouble converting the JAX model to PyTorch, due to the usage of FP16. _"Aha!"_, that's where I thought the problem lies.
 
-And so I opened a Github Issue on the matter, to which HuggingFace's [Patrick von Platen](https://github.com/patrickvonplaten) responded quickly and professionally. Apparently, a "reverse-trick" which I attempted to do to convert FP16 JAX models to FP32 was indeed the fix my model needed. What about the model's results, though? It remained jiberrish, sadly.
+And so I opened a Github Issue on the matter, to which HuggingFace's [Patrick von Platen](https://github.com/patrickvonplaten) responded quickly and professionally. Apparently, a "reverse-trick" which I attempted to do to convert FP16 JAX models to FP32 was indeed the fix my model needed. What about the model's results, though? It remained jibberish, sadly.
 
 At this point, I thought I did something wrong along the training pipeline. _"Whatever"_, I said to myself, let's just focus on the main dish: the Indonesian model.
 
-## ✌ Not One, but Two
+## ✌ Not One, But Two
 
-Seeing my Indonesian model training just fine, I wanted to test its intermediate results after training it for about 6-8 hours. Pulled the model weights from the HuggingFace Hub, and voila, **jiberrish output**! The beast which I expected to have trained is no different from its Sundanese counterpart 😓.
+Seeing my Indonesian model training just fine, I wanted to test its intermediate results after training it for about 6-8 hours. Pulled the model weights from the HuggingFace Hub, and voila, **jibberish output**! The beast which I expected to have trained is no different from its Sundanese counterpart 😓.
 
 <center>
 <img src="{{site.baseurl}}/images/2021/07/hf-jax-week/bert-stare.gif" style="zoom: 100%;"/>
@@ -73,7 +73,7 @@ Now I'm left with two problems instead of one. Badly trained models, but why? Na
 
 _"It must be the dataset!"_, I thought. But wait, while I dug through issues in HuggingFace's Github repo, I found someone who's facing a similar problem as I am: [Birger Moëll](https://github.com/BirgerMoell). Like Birger, our models were spitting jibberish despite a decent training result. Eliminating the possible causes, we suspect that it is the dataset who's the culprit of it all, or is it?
 
-We had a short interaction within the [Github Issue](https://github.com/huggingface/transformers/issues/12554) which Birger raised, but it translated to an even longer conversation back in the official Slack channel. We exchanged ideas of dataset cleaning and discussed our plans for this event. What we didn't realize is that we're becoming good friends from this exchange.
+We had a short interaction within the [Github Issue](https://github.com/huggingface/transformers/issues/12554) which Birger raised, but it translated to an even longer conversation back in the official Slack channel. We exchanged dataset cleaning ideas and discussed our plans for this event. What we didn't realize is that we're becoming good friends from this exchange.
 
 ## 💀/💸 Failure and Fortune
 
@@ -81,11 +81,11 @@ The event lasted for two weeks and there are countless lessons I learned along t
 
 For instance, the [Indonesian RoBERTa Base model](https://huggingface.co/flax-community/indonesian-roberta-base) turned out to be just fine. I pushed the final version after the entire training finished, converted the model to PyTorch, and somehow it wasn't outputting jibberish?! All along, I could have possibly pulled the first epoch of the model, or maybe even epoch zero judging from the performance 🤦‍♂️.
 
-I was so close from giving up, but seeing the Base model working just as intended, I was back on track and became motivated to work on this project once again. The next boss to conquer: `RoBERTa` Large.
+I was so close to giving up, but seeing the Base model working just as intended, I was back on track and became motivated to work on this project once again. The next boss to conquer: `RoBERTa` Large.
 
-I naively thought training the Large rendition would be as trivial as training the Base model. But it turned out to be even more frustrating than the first attempt... Why? Well unlike the Base model, the `RoBERTa` Large didn't like the same value of learning rate. The training loss fluctuated constantly, leading me to think that it is overshooting due to a learning rate that's too high (I was using `2e-4`).
+I naively thought training the Large rendition would be as trivial as training the Base model. But it turned out to be even more frustrating than the first attempt... Why? Well, unlike the Base model, the `RoBERTa` Large didn't like the same value of learning rate. The training loss fluctuated constantly, leading me to think that it is overshooting due to a learning rate that's too high (I was using `2e-4`).
 
-And thus I decided to decrease it by about an order of magnitude (`2e-5`). It was, unsurprisingly, too low of a learning rate.. Even from the first few epochs, I can see that the model is not learning. Killed the process and increased the learning rate to `7e-5`. At that point it was about midnight, so I crossed my fingers and went to sleep. I woke up excited on the next day, and just like that, it still didn't learn 😤. Not a lucky number 7 after all...
+And thus I decided to decrease it by about an order of magnitude (`2e-5`). It was, unsurprisingly, too low of a learning rate.. Even from the first few epochs, I can see that the model is not learning. Killed the process and increased the learning rate to `7e-5`. At that point, it was about midnight, so I crossed my fingers and went to sleep. I woke up excited the next day, and just like that, it still didn't learn 😤. Not a lucky number 7 after all...
 
 <center>
 <img src="{{site.baseurl}}/images/2021/07/hf-jax-week/roberta-large-training-loss.png" style="zoom: 70%;"/>
@@ -98,7 +98,7 @@ As it resumed training, I was delighted to hear that my friends were finding the
 
 As for myself, I was honestly disappointed to see the Large model still suffering from the same issue of "not learning" as the evaluation loss looked somewhat flat at first. But talking to my teammate Steven, he suggested that we leave it as is this time and see how it will fare, since we're really out of time at this point.
 
-To my surprise, it finally learned! After about three/four epochs (~20 hours), the evaluation loss began to decrease! I can finally sleep without having anxiety of model training, for the least. We quickly realized that with the epochs we set, it was impossible for it to zip to a very high accuracy as we wanted. But either way, it served as a lesson of learning-rate tuning and taught us that a scheduler's warmup steps is equally as important.
+To my surprise, it finally learned! After about three/four epochs (~20 hours), the evaluation loss began to decrease! I can finally sleep without having anxiety about model training, for the least. We quickly realized that with the epochs we set, it was impossible for it to zip to a very high accuracy as we wanted. But either way, it served as a lesson of learning-rate tuning and taught us that a scheduler's warmup steps are equally as important.
 
 ## 😮 Extension == Hope
 
