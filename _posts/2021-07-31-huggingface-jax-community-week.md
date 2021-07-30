@@ -7,8 +7,6 @@ tags:
   - Community
 ---
 
-## 🤗 HuggingFace Community Week
-
 On June 23, the HuggingFace team announced that they are planning to host a [community week](https://discuss.huggingface.co/t/open-to-the-community-community-week-using-jax-flax-for-nlp-cv/7104) together with the people from the Google Cloud team. The main gist of this event was getting everyone to learn and use HuggingFace's newly integrated JAX framework. But aside from just learning from tutorials, we were equipped with blazing fast TPUs thanks to the amazing Google Cloud team 🤯.
 
 Hearing this, I naturally gravitated to registering for the event, and so I immediately invited my good friend, [Steven Limcorn](https://stevenlimcorn.github.io), to join me in this event as it was a group work. We hopped into a Discord call and the brainstorm begins..
