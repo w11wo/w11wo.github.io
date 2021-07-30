@@ -64,6 +64,11 @@ At this point, I thought I did something wrong along the training pipeline. _"Wh
 
 Seeing my Indonesian model training just fine, I wanted to test its intermediate results after training it for about 6-8 hours. Pulled the model weights from the HuggingFace Hub, and voila, **jiberrish output**! The beast which I expected to have trained is no different from its Sundanese counterpart 😓.
 
+<center>
+<img src="{{site.baseurl}}/images/2021/07/hf-jax-week/bert-stare.gif" style="zoom: 70%;"/>
+<figcaption><i>Bert's stare, just like mine.</i></figcaption>
+</center>
+
 Now I'm left with two problems instead of one. Badly trained models, but why? Naturally, I investigated the common ground between these two models: JAX and OSCAR dataset. The former seemed innocent though, since nobody has reported a problem with it, and I'm sure the HuggingFace team has checked the framework thoroughly...
 
 _"It must be the dataset!"_, I thought. But wait, while I dug through issues in HuggingFace's Github repo, I found someone who's facing a similar problem as I am: [Birger Moëll](https://github.com/BirgerMoell). Like Birger, our models were spitting jibberish despite a decent training result. Eliminating the possible causes, we suspect that it is the dataset who's the culprit of it all, or is it?
