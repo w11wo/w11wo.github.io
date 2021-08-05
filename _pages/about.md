@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "Wilson Wongso"
+excerpt: "Hello! My name is Wilson Wongso, a sophomore Computer Science student currently studying in Bina Nusantara University."
 author_profile: true
 redirect_from:
   - /about/
