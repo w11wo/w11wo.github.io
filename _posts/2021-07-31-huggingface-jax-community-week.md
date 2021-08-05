@@ -2,6 +2,8 @@
 title: My HuggingFace JAX Community Week Experience
 date: 2021-07-30
 permalink: /posts/2021/07/hf-jax-week/
+header:
+  og_image: "oscar-face.png"
 tags:
   - Transformer
   - Community
