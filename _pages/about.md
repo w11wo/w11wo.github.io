@@ -4,7 +4,7 @@ title: ""
 excerpt: "Hello! My name is Wilson Wongso, a sophomore Computer Science student currently studying in Bina Nusantara University."
 author_profile: true
 header:
-  teaser: "images/favicon.ico"
+  teaser: "/images/favicon.ico"
 redirect_from:
   - /about/
   - /about.html
