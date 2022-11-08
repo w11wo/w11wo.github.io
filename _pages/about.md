@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Hello! My name is Wilson Wongso, a junior Computer Science student currently studying in Bina Nusantara University."
+excerpt: "Hello! My name is Wilson Wongso, a final-year Computer Science student currently undergoing a study abroad program in Monash University, Melbourne."
 author_profile: true
 header:
   teaser: "favicon.ico"
@@ -12,7 +12,7 @@ redirect_from:
 
 ![](images/helloworld.gif)
 
-Hello! My name is **Wilson Wongso**, a junior Computer Science student currently studying in Bina Nusantara University. My main field of interest is Deep Learning, especially solving problems related to Computer Vision and Natural Language.
+Hello! My name is **Wilson Wongso**, a final-year Computer Science student currently undergoing a study abroad program in Monash University, Melbourne. My main field of interest is low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
 
 I am currently a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/) and a Youth Cultural Book Content Consultant at [INOVASI](https://www.inovasi.or.id/). I lead and conduct research in the field of education and dabble with the machine learning side of book content production.
 
