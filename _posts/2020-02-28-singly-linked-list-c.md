@@ -8,7 +8,7 @@ tags:
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Linked_list), a **linked list** is a linear collection of data elements, whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence.
 
-We'll implement a Singly Linked List using the C language. The complete code for this post can be found [here](https://github.com/w11wo/w11wo.github.io/blob/master/files/code/singlyLinkedList.c).
+We'll implement a Singly Linked List using the C language. The complete code for this post can be found [here](https://github.com/w11wo/wilsonwongso.dev/blob/master/files/code/singlyLinkedList.c).
 
 The following code is **based** on a lecture by Rhio Sutoyo, S.Kom., M.Sc. in **Data Structures** course.
 

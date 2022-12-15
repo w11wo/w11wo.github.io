@@ -14,7 +14,7 @@ However, there may be possible collisions when inserting a new data whose key ha
 We'll implement a Hash Table using the C language.
 For each key in the hash table, we'll implement it using a `node` of a Singly Linked List to cater for separate chaining.
 
-The complete code for this post can be found [here](https://github.com/w11wo/w11wo.github.io/blob/master/files/code/hashTable.c).
+The complete code for this post can be found [here](https://github.com/w11wo/wilsonwongso.dev/blob/master/files/code/hashTable.c).
 
 ## Header Files
 
@@ -61,7 +61,7 @@ void print_table(node* root[]);
 
 ## Creating a Node
 
-To create our `node`, we will implement the following function. It is almost identical to the one in the Singly Linked List [blog post](https://w11wo.github.io/blog/code/c/2020/02/28/singly-linked-list-c.html).
+To create our `node`, we will implement the following function. It is almost identical to the one in the Singly Linked List [blog post](https://wilsonwongso.dev/blog/code/c/2020/02/28/singly-linked-list-c.html).
 
 ```c
 node* create_node(const char* name) {
