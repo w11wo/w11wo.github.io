@@ -12,11 +12,37 @@ redirect_from:
 
 ![](images/helloworld.gif)
 
-Hello! My name is **Wilson Wongso**, a final-year Computer Science student currently working on a final-year thesis. My main field of interest is low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
+Hello! My name is Wilson Wongso, a final-year undergraduate Computer Science student currently working on a final-year thesis. My main field of interest is low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
 
-I am currently a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/) and a Youth Cultural Book Content Consultant at [INOVASI](https://www.inovasi.or.id/). I lead and conduct research in the field of education and dabble with the machine learning side of book content production.
+I am currently a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/). I lead a small team of three and our work focuses on automatic speech recognition, speech synthesis, audio classification, conversational AI, and many more.
 
-Before this position, I was mainly an esports content writer at [Hybrid Indonesia](https://hybrid.co.id/) where I discuss competitive gaming, professional players & teams, do interviews, and occasionally mix a little machine learning in my writing. In my free time, I used to tutor high school students privately and host a podcast show together with my friends at [Podcast Keren](https://open.spotify.com/show/6gzT06081Q7TFJAeYUdnfK?si=F65NpD6bR6izeJh65fV2aw&dl_branch=1).
+Before this position, I was mainly an esports content writer at [Hybrid Indonesia](https://hybrid.co.id/) where I discuss competitive gaming, professional players & teams, do interviews, and occasionally mix a little machine learning in my writing. You can view my articles on [Notion](https://w11wo.notion.site/ebd6b1a72b364378aaeacbe7732ae2db?v=e3c7bdea1ff64328b9a89d55abe85260).
+
+## Academic History
+
+**Bachelor of Computer Science (S.Kom.)**
+<br/>
+Binus University *(2019-present)*
+<!-- <br/>
+Graduated with TBA
+<br/>
+Final thesis: ""
+<br/>
+Advisor: -->
+
+**Study Abroad, Information Technology**
+<br/>
+Monash University Australia *(2022-2023)*
+<br/>
+GPA: 4.0 -- WAM: 94.0
+
+## Awards
+
+- **2023**: Highest grade for Semester 2, 2022 in FIT1045 Algorithms and programming fundamentals in python (Monash University)
+- **2022**: Binus University Appreciation Day Awardee: Student Achievement International Level Greater Jakarta
+- **2022**: Binus University Global Class Scholarship Program: Study Abroad - Monash University Australia
+- **2022**: Best Presenter of ICACSIS Session #12 Natural Language Processing
+- **2019**: Kairos Gracia Christian Junior College: Kairos Gracia Award
 
 ## Latest Blog Posts
 
