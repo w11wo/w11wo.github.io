@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Hello! My name is Wilson Wongso, a final-year Computer Science student currently working on a final-year thesis."
+excerpt: "Hello! My name is Wilson Wongso, a Machine Learning Engineer!"
 author_profile: true
 header:
   teaser: "favicon.ico"
@@ -12,7 +12,7 @@ redirect_from:
 
 ![](images/helloworld.gif)
 
-Hello! My name is Wilson Wongso, a final-year undergraduate Computer Science student currently working on a final-year thesis. My main field of interest is low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
+Hello! My name is Wilson Wongso, a Machine Learning Engineer who has just recently finished a Bachelor of Computer Science degree. My final-year undergraduate thesis titled *"Many-to-Many Multilingual Translation Model for Languages of Indonesia"* has just been published in [IEEE Access](https://ieeexplore.ieee.org/document/10230218)! My main field of interest is low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
 
 I am currently a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/). I lead a small team of three and our work focuses on automatic speech recognition, speech synthesis, audio classification, conversational AI, and many more.
 
@@ -22,19 +22,19 @@ Before this position, I was mainly an esports content writer at [Hybrid Indonesi
 
 **Bachelor of Computer Science (S.Kom.)**
 <br/>
-Binus University *(2019-present)*
-<!-- <br/>
-Graduated with TBA
+Binus University *(2019-2023)*
 <br/>
-Final thesis: ""
+Graduated with GPA: 3.99
 <br/>
-Advisor: -->
+Thesis: <a href="https://ieeexplore.ieee.org/document/10230218">Many-to-Many Multilingual Translation Model for Languages of Indonesia</a>
+<br/>
+Advisor: Dr. Ir. Derwin Suhartono, S.Kom., M.T.I.
 
 **Study Abroad, Information Technology**
 <br/>
 Monash University Australia *(2022-2023)*
 <br/>
-GPA: 4.0 -- WAM: 94.0
+GPA: 4.00 -- WAM: 94.0
 
 ## Awards
 
