@@ -38,6 +38,7 @@ GPA: 4.00 -- WAM: 94.0
 
 ## Awards
 
+- **2023**: Best Graduate from Computer Science Program with Summa Cumlaude (3.99 GPA), Binus University 68th Graduation
 - **2023**: Highest grade for Semester 2, 2022 in FIT1045 Algorithms and programming fundamentals in python (Monash University)
 - **2022**: Binus University Appreciation Day Awardee: Student Achievement International Level Greater Jakarta
 - **2022**: Binus University Global Class Scholarship Program: Study Abroad - Monash University Australia
