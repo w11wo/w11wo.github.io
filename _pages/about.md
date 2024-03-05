@@ -12,9 +12,13 @@ redirect_from:
 
 ![](images/helloworld.gif)
 
-Hello! My name is Wilson Wongso, a Machine Learning Engineer who has just recently finished a Bachelor of Computer Science degree. My final-year undergraduate thesis titled *"Many-to-Many Multilingual Translation Model for Languages of Indonesia"* has just been published in [IEEE Access](https://ieeexplore.ieee.org/document/10230218)! My main field of interest is low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
+Hello! My name is Wilson Wongso, a Machine Learning Engineer who has just recently finished a Bachelor of Computer Science degree. My main field of interest is low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
 
 I am currently a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/). I lead a small team of three and our work focuses on automatic speech recognition, speech synthesis, audio classification, conversational AI, and many more.
+
+I am also an independent researcher at [Lazarus NLP](https://lazarusnlp.github.io/). We work on open-source language models for languages of Indonesia. Our main goal is to revive the dying languages of Indonesia through speech and language technology. 
+
+We have just recently released a pre-print paper titled [NusaBERT: Teaching IndoBERT to be Multilingual and Multicultural](https://arxiv.org/abs/2403.01817). The paper discusses the challenges of Indonesia's linguistic landscape and how we developed NusaBERT, a multilingual and multicultural language model for Indonesia.
 
 Before this position, I was mainly an esports content writer at [Hybrid Indonesia](https://hybrid.co.id/) where I discuss competitive gaming, professional players & teams, do interviews, and occasionally mix a little machine learning in my writing. You can view my articles on [Notion](https://w11wo.notion.site/ebd6b1a72b364378aaeacbe7732ae2db?v=e3c7bdea1ff64328b9a89d55abe85260).
 
