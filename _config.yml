@@ -11,7 +11,7 @@ locale: "en-US"
 title: "Wilson's Homepage"
 title_separator: "-"
 name: &name "Wilson Wongso"
-description: &description "Computer Science Student."
+description: &description "Computer Science PhD Candidate."
 url: https://wilsonwongso.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "w11wo/wilsonwongso.dev"
@@ -82,8 +82,8 @@ analytics:
 author:
   name: "Wilson Wongso"
   avatar: "profile.jpg"
-  bio: "Researcher @LazarusNLP; MLE @Bookbot; CS @Binus '23;"
-  location: "Jakarta, Indonesia"
+  bio: "CS PhD Cand. @ UNSW; Researcher @ LazarusNLP; MLE @ Bookbot; CS @ Binus '23;"
+  location: "Sydney, Australia"
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=p4Xj2CYAAAAJ&hl=en"

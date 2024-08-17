@@ -12,17 +12,23 @@ redirect_from:
 
 ![](images/helloworld.gif)
 
-Hello! My name is Wilson Wongso, a Machine Learning Engineer who has just recently finished a Bachelor of Computer Science degree. My main field of interest is low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
+Hello! My name is Wilson Wongso, a Machine Learning Engineer who just started his PhD at the University of New South Wales (UNSW) Sydney, 🇦🇺 Australia. My fields of interest include low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
 
-I am currently a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/). I lead a small team of three and our work focuses on automatic speech recognition, speech synthesis, audio classification, conversational AI, and many more.
+On the side, I am a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/). I lead a small team of two and our work focuses on automatic speech recognition, speech synthesis, audio classification, conversational AI, and many more.
 
-I am also an independent researcher at [Lazarus NLP](https://lazarusnlp.github.io/). We work on open-source language models for languages of Indonesia. Our main goal is to revive the dying languages of Indonesia through speech and language technology. 
+I am also an independent researcher at [Lazarus NLP](https://lazarusnlp.github.io/). We work on open-source language models for languages of 🇮🇩 Indonesia. Our main goal is to revive the dying languages of Indonesia through speech and language technology. Our most recent publication is titled [NusaBERT: Teaching IndoBERT to be Multilingual and Multicultural](https://arxiv.org/abs/2403.01817).
 
-We have just recently released a pre-print paper titled [NusaBERT: Teaching IndoBERT to be Multilingual and Multicultural](https://arxiv.org/abs/2403.01817). The paper discusses the challenges of Indonesia's linguistic landscape and how we developed NusaBERT, a multilingual and multicultural language model for Indonesia.
-
-Before this position, I was mainly an esports content writer at [Hybrid Indonesia](https://hybrid.co.id/) where I discuss competitive gaming, professional players & teams, do interviews, and occasionally mix a little machine learning in my writing. You can view my articles on [Notion](https://w11wo.notion.site/ebd6b1a72b364378aaeacbe7732ae2db?v=e3c7bdea1ff64328b9a89d55abe85260).
+Before all of this, I was mainly an esports content writer at [Hybrid Indonesia](https://hybrid.co.id/) where I discuss competitive gaming, professional players & teams, do interviews, and occasionally mix a little machine learning in my writing. You can view my articles on [Notion](https://w11wo.notion.site/ebd6b1a72b364378aaeacbe7732ae2db?v=e3c7bdea1ff64328b9a89d55abe85260).
 
 ## Academic History
+
+**Doctor of Philosophy (PhD) Candidate**
+<br/>
+UNSW Sydney *(2024-present)*
+<br/>
+Main Research Project: [GenAISim: Simulation in the Loop for Multi-Stakeholder Interactions with Generative Agents](https://www.admscentre.org.au/genaisim-simulation-in-the-loop-for-multi-stakeholder-interactions-with-generative-agents/) (ADM+S) 
+<br/>
+Supervisor: Professor Flora Salim
 
 **Bachelor of Computer Science (S.Kom.)**
 <br/>
@@ -42,8 +48,9 @@ GPA: 4.00 -- WAM: 94.0
 
 ## Awards
 
+- **2024**: Received Tuition Fee Scholarship (TFS) for PhD Program, UNSW Sydney
 - **2023**: Best Graduate from Computer Science Program with Summa Cumlaude (3.99 GPA), Binus University 68th Graduation
-- **2023**: Highest grade for Semester 2, 2022 in FIT1045 Algorithms and programming fundamentals in python (Monash University)
+- **2023**: Highest grade for Semester 2, 2022 in FIT1045 Algorithms and Programming Fundamentals in Python (Monash University)
 - **2022**: Binus University Appreciation Day Awardee: Student Achievement International Level Greater Jakarta
 - **2022**: Binus University Global Class Scholarship Program: Study Abroad - Monash University Australia
 - **2022**: Best Presenter of ICACSIS Session #12 Natural Language Processing
