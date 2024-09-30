@@ -29,6 +29,8 @@ UNSW Sydney *(2024-present)*
 Main Research Project: [GenAISim: Simulation in the Loop for Multi-Stakeholder Interactions with Generative Agents](https://www.admscentre.org.au/genaisim-simulation-in-the-loop-for-multi-stakeholder-interactions-with-generative-agents/) (ADM+S) 
 <br/>
 Supervisor: Professor Flora Salim
+<br/>
+[ADM+S Centre Scholarship Recipient](https://www.admscentre.org.au/wilson-wongso/)
 
 **Bachelor of Computer Science (S.Kom.)**
 <br/>
