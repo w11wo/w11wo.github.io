@@ -12,7 +12,7 @@ redirect_from:
 
 ![](images/helloworld.gif)
 
-Hello! My name is Wilson Wongso, a Machine Learning Engineer who just started his PhD at the University of New South Wales (UNSW) Sydney, 🇦🇺 Australia. My fields of interest include low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
+Hello! My name is Wilson Wongso, a Machine Learning Engineer who started his PhD at the University of New South Wales (UNSW) Sydney, 🇦🇺 Australia. My fields of interest include low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
 
 On the side, I am a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/). I lead a small team of two and our work focuses on automatic speech recognition, speech synthesis, audio classification, conversational AI, and many more.
 
@@ -26,11 +26,11 @@ Before all of this, I was mainly an esports content writer at [Hybrid Indonesia]
 <br/>
 UNSW Sydney *(2024-present)*
 <br/>
-Main Research Project: [GenAISim: Simulation in the Loop for Multi-Stakeholder Interactions with Generative Agents](https://www.admscentre.org.au/genaisim-simulation-in-the-loop-for-multi-stakeholder-interactions-with-generative-agents/) (ADM+S) 
+Research Topic: [GenAISim: Simulation in the Loop for Multi-Stakeholder Interactions with Generative Agents](https://www.admscentre.org.au/genaisim-simulation-in-the-loop-for-multi-stakeholder-interactions-with-generative-agents/)
 <br/>
-Supervisor: Professor Flora Salim
+ADM+S Centre [Scholarship Recipient](https://www.admscentre.org.au/wilson-wongso/)
 <br/>
-[ADM+S Centre Scholarship Recipient](https://www.admscentre.org.au/wilson-wongso/)
+Supervisor: Professor Flora Salim ([CRUISE](https://cruiseresearchgroup.github.io/#people))
 
 **Bachelor of Computer Science (S.Kom.)**
 <br/>
@@ -50,6 +50,7 @@ GPA: 4.00 -- WAM: 94.0
 
 ## Awards
 
+- **2024**: HDR/ECR Poster Competition - Judges Award ($1500 Research Grant), 2024 ADM+S Symposium
 - **2024**: Received Tuition Fee Scholarship (TFS) for PhD Program, UNSW Sydney
 - **2023**: Best Graduate from Computer Science Program with Summa Cumlaude (3.99 GPA), Binus University 68th Graduation
 - **2023**: Highest grade for Semester 2, 2022 in FIT1045 Algorithms and Programming Fundamentals in Python (Monash University)
