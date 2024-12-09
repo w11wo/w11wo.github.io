@@ -30,7 +30,7 @@ Research Topic: [GenAISim: Simulation in the Loop for Multi-Stakeholder Interact
 <br/>
 ADM+S Centre [Scholarship Recipient](https://www.admscentre.org.au/wilson-wongso/)
 <br/>
-Supervisor: Professor Flora Salim ([CRUISE](https://cruiseresearchgroup.github.io/#people))
+Supervisor: Professor Flora Salim ([CRUISE-UNSW](https://cruiseresearchgroup.github.io/))
 
 **Bachelor of Computer Science (S.Kom.)**
 <br/>
@@ -50,9 +50,11 @@ GPA: 4.00 -- WAM: 94.0
 
 ## Awards
 
-- **2024**: HDR/ECR Poster Competition - Judges Award ($1500 Research Grant), 2024 ADM+S Symposium
+- **2024**: Judges (1st) Prize ($5000 Research Project Grant) - ADM+S Hackathon 2024: Recommender Systems for Public Service Media
+- **2024**: Judges Award ($1500 Research Grant) - HDR/ECR Poster Competition, [2024 ADM+S Symposium](https://www.admscentre.org.au/the-adms-annual-symposium-shares-insights-on-the-future-of-ai-and-automated-decision-making-systems-across-mobilities/)
+- **2024**: ARC Centre for Automated Decision-Making and Society [(ADM+S) Scholarship Recipient](https://www.admscentre.org.au/wilson-wongso/)
 - **2024**: Received Tuition Fee Scholarship (TFS) for PhD Program, UNSW Sydney
-- **2023**: Best Graduate from Computer Science Program with Summa Cumlaude (3.99 GPA), Binus University 68th Graduation
+- **2023**: Best Graduate from Computer Science Program with Summa Cumlaude (3.99 GPA), [Binus University 68th Graduation](https://graduation.apps.binus.ac.id/graduates/2301863181/)
 - **2023**: Highest grade for Semester 2, 2022 in FIT1045 Algorithms and Programming Fundamentals in Python (Monash University)
 - **2022**: Binus University Appreciation Day Awardee: Student Achievement International Level Greater Jakarta
 - **2022**: Binus University Global Class Scholarship Program: Study Abroad - Monash University Australia
