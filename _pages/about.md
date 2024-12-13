@@ -50,7 +50,7 @@ GPA: 4.00 -- WAM: 94.0
 
 ## Awards
 
-- **2024**: Judges (1st) Prize ($5000 Research Project Grant) - ADM+S Hackathon 2024: Recommender Systems for Public Service Media
+- **2024**: Judges (1st) Prize ($5000 Research Project Grant) - [ADM+S Hackathon 2024: Recommender Systems for Public Service Media](https://www.admscentre.org.au/2024-adms-hackathon-explores-public-service-media-recommender-systems-with-the-abc/)
 - **2024**: Judges Award ($1500 Research Grant) - HDR/ECR Poster Competition, [2024 ADM+S Symposium](https://www.admscentre.org.au/the-adms-annual-symposium-shares-insights-on-the-future-of-ai-and-automated-decision-making-systems-across-mobilities/)
 - **2024**: ARC Centre for Automated Decision-Making and Society [(ADM+S) Scholarship Recipient](https://www.admscentre.org.au/wilson-wongso/)
 - **2024**: Received Tuition Fee Scholarship (TFS) for PhD Program, UNSW Sydney
