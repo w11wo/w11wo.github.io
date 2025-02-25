@@ -61,6 +61,12 @@ GPA: 4.00 -- WAM: 94.0
 - **2022**: Best Presenter of ICACSIS Session #12 Natural Language Processing
 - **2019**: Kairos Gracia Christian Junior College: Kairos Gracia Award
 
+## Academic Services
+
+- **Program Committee**: [WWW Spatio-Temporal Data Mining Workshop '25](https://webst2025.netlify.app/)
+- **Reviewer**: [WWW '25](https://www2025.thewebconf.org/)
+- **Others**: ADM+S HDR Subcommittee
+
 ## Latest Blog Posts
 
 <div style="display:inline-block">
