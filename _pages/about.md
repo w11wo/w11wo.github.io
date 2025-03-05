@@ -16,7 +16,7 @@ Hello! My name is Wilson Wongso, a Machine Learning Engineer who started his PhD
 
 On the side, I am a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/). I lead a small team of two and our work focuses on automatic speech recognition, speech synthesis, audio classification, conversational AI, and many more.
 
-I am also an independent researcher at [Lazarus NLP](https://lazarusnlp.github.io/). We work on open-source language models for languages of 🇮🇩 Indonesia. Our main goal is to revive the dying languages of Indonesia through speech and language technology. Our most recent publication is titled [NusaBERT: Teaching IndoBERT to be Multilingual and Multicultural](https://arxiv.org/abs/2403.01817).
+I am also an independent researcher at [Lazarus NLP](https://lazarusnlp.github.io/). We work on open-source language models for languages of 🇮🇩 Indonesia. Our main goal is to revive the dying languages of Indonesia through speech and language technology. Our most recent publication is titled [NusaBERT: Teaching IndoBERT to be Multilingual and Multicultural](https://aclanthology.org/2025.sealp-1.2/).
 
 Before all of this, I was mainly an esports content writer at [Hybrid Indonesia](https://hybrid.co.id/) where I discuss competitive gaming, professional players & teams, do interviews, and occasionally mix a little machine learning in my writing. You can view my articles on [Notion](https://w11wo.notion.site/ebd6b1a72b364378aaeacbe7732ae2db?v=e3c7bdea1ff64328b9a89d55abe85260).
 
