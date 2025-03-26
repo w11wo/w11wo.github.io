@@ -63,8 +63,10 @@ GPA: 4.00 -- WAM: 94.0
 
 ## Academic Services
 
-- **Program Committee**: [WWW Spatio-Temporal Data Mining Workshop '25](https://webst2025.netlify.app/)
-- **Reviewer**: [WWW '25](https://www2025.thewebconf.org/)
+- **Program Committee**: [WebST '25](https://webst2025.netlify.app/)
+- **Reviewer**:
+  - Conferences/Workshops: [WWW '25](https://www2025.thewebconf.org/), [SemEval '25](https://semeval.github.io/SemEval2025/)
+  - Journals: [Springer Language Resources and Evaluation](https://link.springer.com/journal/10579)
 - **Others**: ADM+S HDR Subcommittee
 
 ## Latest Blog Posts
