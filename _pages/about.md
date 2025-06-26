@@ -66,7 +66,7 @@ GPA: 4.00 -- WAM: 94.0
 - **Program Committee**: [WebST '25](https://webst2025.netlify.app/)
 - **Reviewer**:
   - Conferences/Workshops: [WWW '25](https://www2025.thewebconf.org/), [SemEval '25](https://semeval.github.io/SemEval2025/)
-  - Journals: [Springer Language Resources and Evaluation](https://link.springer.com/journal/10579)
+  - Journals: [Springer Language Resources and Evaluation](https://link.springer.com/journal/10579), [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
 - **Others**: ADM+S HDR Subcommittee
 
 ## Latest Blog Posts
