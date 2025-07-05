@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Hello! My name is Wilson Wongso, a Machine Learning Engineer!"
+excerpt: "Hello! My name is Wilson Wongso, a PhD candidate in Computer Science!"
 author_profile: true
 header:
   teaser: "favicon.ico"
@@ -12,9 +12,9 @@ redirect_from:
 
 ![](images/helloworld.gif)
 
-Hello! My name is Wilson Wongso, a Machine Learning Engineer who started his PhD at the University of New South Wales (UNSW) Sydney, 🇦🇺 Australia. My fields of interest include low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP).
+Hello! My name is Wilson Wongso, a PhD candidate in Computer Science at the University of New South Wales (UNSW) Sydney, 🇦🇺 Australia. I specialize in Natural Language Processing (NLP) and currently work as a casual Research Assistant at UNSW, focusing on geo-spatial querying using national varieties of English.
 
-On the side, I am a Machine Learning Engineer at [Bookbot](https://www.bookbotkids.com/). I lead a small team of two and our work focuses on automatic speech recognition, speech synthesis, audio classification, conversational AI, and many more.
+In addition, I am a part-time AI/ML Consultant/Engineer for [Eluve](https://eluve.com/) and [Bookbot](https://www.bookbotkids.com/). I work on a range of projects including speech recognition, speech synthesis, large language models (LLMs), and more.
 
 I am also an independent researcher at [Lazarus NLP](https://lazarusnlp.github.io/). We work on open-source language models for languages of 🇮🇩 Indonesia. Our main goal is to revive the dying languages of Indonesia through speech and language technology. Our most recent publication is titled [NusaBERT: Teaching IndoBERT to be Multilingual and Multicultural](https://aclanthology.org/2025.sealp-1.2/).
 
@@ -40,7 +40,7 @@ Graduated with GPA: 3.99
 <br/>
 Thesis: <a href="https://ieeexplore.ieee.org/document/10230218">Many-to-Many Multilingual Translation Model for Languages of Indonesia</a>
 <br/>
-Advisor: Dr. Ir. Derwin Suhartono, S.Kom., M.T.I.
+Advisor: Prof. Dr. Ir. Derwin Suhartono, S.Kom., MTI
 
 **Study Abroad, Information Technology**
 <br/>
@@ -67,7 +67,7 @@ GPA: 4.00 -- WAM: 94.0
 - **Reviewer**:
   - Conferences/Workshops: [WWW '25](https://www2025.thewebconf.org/), [SemEval '25](https://semeval.github.io/SemEval2025/)
   - Journals: [Springer Language Resources and Evaluation](https://link.springer.com/journal/10579), [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
-- **Others**: ADM+S HDR Subcommittee
+- **Others**: CRUISE-UNSW Co-Lab Manager, ADM+S HDR Subcommittee
 
 ## Latest Blog Posts
 
