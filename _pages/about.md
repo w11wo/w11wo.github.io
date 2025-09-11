@@ -14,9 +14,9 @@ redirect_from:
 
 Hello! My name is Wilson Wongso, a PhD candidate in Computer Science at the University of New South Wales (UNSW) Sydney, 🇦🇺 Australia. I specialize in Natural Language Processing (NLP) and currently work as a casual Research Assistant at UNSW, focusing on geo-spatial querying using national varieties of English.
 
-In addition, I am a part-time AI/ML Consultant/Engineer for [Eluve](https://eluve.com/) and [Bookbot](https://www.bookbotkids.com/). I work on a range of projects including speech recognition, speech synthesis, large language models (LLMs), and more.
+In addition, I am a part-time AI/ML Consultant/Engineer for [Eluve](https://eluve.com/). I work on a range of projects including speech recognition, speech synthesis, large language models (LLMs), and more.
 
-I am also an independent researcher at [Lazarus NLP](https://lazarusnlp.github.io/). We work on open-source language models for languages of 🇮🇩 Indonesia. Our main goal is to revive the dying languages of Indonesia through speech and language technology. Our most recent publication is titled [NusaBERT: Teaching IndoBERT to be Multilingual and Multicultural](https://aclanthology.org/2025.sealp-1.2/).
+I am also an independent researcher at [Lazarus NLP](https://lazarusnlp.github.io/). We work on open-source language models for languages of 🇮🇩 Indonesia. Our main goal is to revive the dying languages of Indonesia through speech and language technology. Our most recent publication is titled [Lazarus NLP at SemEval-2025 Task 11: Fine-Tuning Large Language Models for Multi-Label Emotion Classification via Sentence-Label Pairing](https://aclanthology.org/2025.semeval-1.104/).
 
 Before all of this, I was mainly an esports content writer at [Hybrid Indonesia](https://hybrid.co.id/) where I discuss competitive gaming, professional players & teams, do interviews, and occasionally mix a little machine learning in my writing. You can view my articles on [Notion](https://w11wo.notion.site/ebd6b1a72b364378aaeacbe7732ae2db?v=e3c7bdea1ff64328b9a89d55abe85260).
 
@@ -69,7 +69,7 @@ GPA: 4.00 -- WAM: 94.0
   - Conferences/Workshops: [WWW '25](https://www2025.thewebconf.org/), [SemEval '25](https://semeval.github.io/SemEval2025/)
   - Journals: [Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579), [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), [Humanities and Social Sciences Communications (Springer Nature)](https://www.nature.com/palcomms/)
 - **Invited Guest**: [Partnership for Applied Biblical NLP (PABNLP)](https://biblenlp.github.io/)
-- **Others**: CRUISE-UNSW Co-Lab Coordinator, ADM+S HDR Subcommittee
+- **Others**: CRUISE-UNSW Co-Lab Coordinator (2025–), ADM+S HDR Subcommittee (2024–2025)
 
 ## Latest Blog Posts
 
