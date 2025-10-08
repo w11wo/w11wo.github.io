@@ -64,7 +64,7 @@ GPA: 4.00 -- WAM: 94.0
 
 ## Academic Services
 
-- **Program Committee**: [WebST '25](https://webst2025.netlify.app/)
+- **Program Committee**: [WebST @ WWW '25](https://webst2025.netlify.app/), [Urban AI @ SIGSPATIAL '25](https://events.ornl.gov/urbanai2025/)
 - **Reviewer**:
   - Conferences/Workshops: [WWW '25](https://www2025.thewebconf.org/), [SemEval '25](https://semeval.github.io/SemEval2025/)
   - Journals: [Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579), [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), [Humanities and Social Sciences Communications (Springer Nature)](https://www.nature.com/palcomms/)
