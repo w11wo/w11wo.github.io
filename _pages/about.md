@@ -73,11 +73,13 @@ GPA: 4.00 -- WAM: 94.0
 
 - **Co-supervisor**:
   - Ashiq Shukoor Iqbal (Honours Thesis, UNSW, 2025)
-  - Xiheng Chen (Master Thesis, UNSW, 2025)
+  - Xiheng Chen (Master's Thesis, UNSW, 2025)
+  - Fankai Cheng, Zijun Deng, Yujie Zhong, Daming Liu, Bowen Shen (DATA5925, Master's Thesis, UNSW, 2025)
 
 ## Invited Talks
 
 - HuMNet Lab, University of California, Berkeley, 11 November 2025: "Modeling Human Mobility with Generative Agents"
+- School of Computer Science, Bina Nusantara University, Jakarta, 15 July 2025: "Jakarta to Sydney: Perjalanan Menuju PhD di Bidang NLP" (*Indonesian*)
 
 ## Latest Blog Posts
 
