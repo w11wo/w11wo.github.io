@@ -71,10 +71,14 @@ GPA: 4.00 -- WAM: 94.0
 
 ## Supervision
 
-- **Co-supervisor**:
-  - Ashiq Shukoor Iqbal (Honours Thesis, UNSW, 2025)
-  - Xiheng Chen (Master's Thesis, UNSW, 2025)
-  - Fankai Cheng, Zijun Deng, Yujie Zhong, Daming Liu, Bowen Shen (DATA5925, Master's Thesis, UNSW, 2025)
+### Co-supervised Students
+
+- Jingxi Liang, Tieru Zhang, Tim Lu, Waseq Islam, Yujie Hou (DATA5925, Master's Thesis, UNSW, 2026)
+- Yixiang Zhang (Master's Thesis, UNSW, 2026)
+- Yuchi Long (Master's Thesis, UNSW, 2026)
+- Ashiq Shukoor Iqbal (Honours Thesis, UNSW, 2025-2026)
+- Xiheng Chen (Master's Thesis, UNSW, 2025)
+- Fankai Cheng, Zijun Deng, Yujie Zhong, Daming Liu, Bowen Shen (DATA5925, Master's Thesis, UNSW, 2025)
 
 ## Invited Talks
 
