@@ -62,23 +62,28 @@ GPA: 4.00 -- WAM: 94.0
 
 ## Academic Services
 
-- **Program Committee**: [WebST @ WWW '25](https://webst2025.netlify.app/), [Urban AI @ SIGSPATIAL '25](https://events.ornl.gov/urbanai2025/)
+- **Program Committee**: [WebST @ WWW '25](https://webst2025.netlify.app/), Urban AI @ SIGSPATIAL ['25](https://events.ornl.gov/urbanai2025/), ['26](https://events.ornl.gov/urbanai2026/)
 - **Reviewer**:
-  - Conferences/Workshops: [WWW '25](https://www2025.thewebconf.org/), [SemEval '25](https://semeval.github.io/SemEval2025/)
+  - Conferences/Workshops: WWW ['25](https://www2025.thewebconf.org/), ['27](https://www2027.thewebconf.org/), [SemEval '25](https://semeval.github.io/SemEval2025/)
   - Journals: [Language Resources and Evaluation (Springer)](https://link.springer.com/journal/10579), [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), [Humanities and Social Sciences Communications (Springer Nature)](https://www.nature.com/palcomms/)
 - **Invited Guest**: [Partnership for Applied Biblical NLP (PABNLP)](https://biblenlp.github.io/)
 - **Others**: CRUISE-UNSW Co-Lab Coordinator (2025–), ADM+S HDR Subcommittee (2024–2025)
+
+## Teaching
+
+- DATA3001 Data Science and Decisions in Practice (Tutor, UNSW, 2026T3)
 
 ## Supervision
 
 ### Co-supervised Students
 
-- Jingxi Liang, Tieru Zhang, Tim Lu, Waseq Islam, Yujie Hou (DATA5925, Master's Thesis, UNSW, 2026)
+- Beichen Wu, Benjamin Joseph, Bingyu Wang, Qingyong Zeng, Wenxuan Cao, Zirui Zheng (DATA5925, Master's Thesis, UNSW, 2026T3)
+- Jingxi Liang, Tieru Zhang, Tim Lu, Waseq Islam, Yujie Hou (DATA5925, Master's Thesis, UNSW, 2026T1)
 - Yixiang Zhang (Master's Thesis, UNSW, 2026)
 - Yuchi Long (Master's Thesis, UNSW, 2026)
 - Ashiq Shukoor Iqbal (Honours Thesis, UNSW, 2025-2026)
 - Xiheng Chen (Master's Thesis, UNSW, 2025)
-- Fankai Cheng, Zijun Deng, Yujie Zhong, Daming Liu, Bowen Shen (DATA5925, Master's Thesis, UNSW, 2025)
+- Bowen Shen, Daming Liu, Fankai Cheng, Yujie Zhong, Zijun Deng (DATA5925, Master's Thesis, UNSW, 2025T3)
 
 ## Invited Talks
 
